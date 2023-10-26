@@ -7,9 +7,8 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map [[https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/](https://leranu.github.io/kosmisko/)](https://leranu.github.io/kosmisko/#1)
+- Leaflet Map https://leranu.github.io/kosmisko/#1
 - Google Sheets template https://docs.google.com/spreadsheets/d/1rz-OUiKBQjd_BfKDV_FBLLHDAwCv5ywIoHsN4aT3u_w/edit#gid=0
-
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
